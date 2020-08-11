@@ -15,6 +15,8 @@ I intend to learn:
 <img style="margin-left: 4px" src="https://i.ibb.co/XkRPGbp/python.png" width="20"/> <b>Python.</b>
 
 
-## My Github Status
+### My Github Status
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jezielm7&show_icons=true&theme=dracula" alt="Jeziel's Github Status" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jezielm7&show_icons=true&theme=dracula" alt="Jeziel's Github Status" />
+</p>
