@@ -11,8 +11,9 @@ Currently learning:
 <img style="margin-left: 4px" src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js.</b>
 
 Intend to learn: 
-<img style="margin-left: 4px" src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL</b>, 
-<img style="margin-left: 4px" src="https://i.ibb.co/XkRPGbp/python.png" width="20"/> <b>Python.</b>
+<img style="margin-left: 4px" src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL,</b> 
+<img style="margin-left: 4px" src="https://i.ibb.co/XkRPGbp/python.png" width="20"/> <b>Python,</b>
+<img style="margin-left: 4px" src="https://i.ibb.co/vhSM5hg/flutter.png" width="20"/> <b>Flutter.</b>
 
 
 ### My Github Status
