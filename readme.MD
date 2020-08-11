@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About me
 
-Hi you there 🚀  
+Hi you there!  
 
 I'm Jeziel Marques, Mobile Development enthusiast, working over React Native ecosystem. <br/>
 Always looking for improvement and new knowledge to build better solutions through apps...
@@ -16,7 +16,7 @@ Intend to learn:
 <img style="margin-left: 4px" src="https://i.ibb.co/vhSM5hg/flutter.png" width="20"/> <b>Flutter.</b>
 
 
-### My Github Status
+### My Github Status 🚀
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jezielm7&show_icons=true&theme=dracula" alt="Jeziel's Github Status" />
