@@ -5,12 +5,12 @@ Hi you there 👋🏻
 I'm Jeziel Marques, Mobile Development enthusiast, working over React Native ecosystem. <br/>
 Always looking for improvement and new knowledge to build better solutions through apps...
 
-Currently learning: 
+<strong>Currently learning:</strong> 
 <img style="margin-left: 4px" src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, 
 <img style="margin-left: 4px" src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>, 
 <img style="margin-left: 4px" src="https://i.ibb.co/WF3MG5H/unnamed.png" width="20"/> <b>Redux.</b>
 
-Intend to learn: 
+<strong>Intend to learn:</strong> 
 <img style="margin-left: 4px" src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL,</b> 
 <img style="margin-left: 4px" src="https://i.ibb.co/XkRPGbp/python.png" width="20"/> <b>Python,</b>
 <img style="margin-left: 4px" src="https://i.ibb.co/vhSM5hg/flutter.png" width="20"/> <b>Flutter.</b> 
