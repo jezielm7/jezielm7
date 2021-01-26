@@ -12,8 +12,9 @@ Always looking for improvement and new knowledge to build better solutions throu
 
 <strong>Intend to learn:</strong> 
 <img style="margin-left: 4px" src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL,</b> 
-<img style="margin-left: 4px" src="https://i.ibb.co/XkRPGbp/python.png" width="20"/> <b>Python,</b>
-<img style="margin-left: 4px" src="https://i.ibb.co/vhSM5hg/flutter.png" width="20"/> <b>Flutter.</b> 
+<img style="margin-left: 4px" src="https://i.ibb.co/ky4RNP4/nextjs-logo.png" width="20"/> <b>NextJs,</b>
+<img style="margin-left: 4px" src="https://i.ibb.co/XkRPGbp/python.png" width="20"/> <b>Python.</b>
+ 
 
 
 ### My Github Status  🚀
