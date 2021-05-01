@@ -12,7 +12,7 @@ Always looking for improvement and new knowledge to build better solutions throu
 
 <strong>Intend to learn:</strong> 
 <img style="margin-left: 4px" src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL,</b> 
-<img style="margin-left: 4px" src="https://i.ibb.co/DYKp8Zb/golang.png" width="20"/> <b>Golang,</b> 
+<img style="margin-left: 4px" src="https://i.ibb.co/DYKp8Zb/golang.png" width="25"/> <b>Golang,</b> 
 <img style="margin-left: 4px" src="https://i.ibb.co/XkRPGbp/python.png" width="20"/> <b>Python.</b>
  
 
