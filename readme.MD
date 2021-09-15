@@ -8,7 +8,7 @@ Always looking for improvement and new knowledge to build better solutions throu
 <strong>Currently learning:</strong> 
 <img style="margin-left: 4px" src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, 
 <img style="margin-left: 4px" src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>, 
-<img style="margin-left: 4px" src="https://i.ibb.co/WF3MG5H/unnamed.png" width="20"/> <b>Redux.</b>
+<img style="margin-left: 4px" src="https://i.ibb.co/WF3MG5H/unnamed.png" width="20"/> <b>Context API.</b>
 
 <strong>Intend to learn:</strong> 
 <img style="margin-left: 4px" src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL,</b> 
