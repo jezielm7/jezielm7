@@ -19,11 +19,11 @@ Always looking for improvement and new knowledge to build better solutions throu
 
 <div>
  <a href="mailto:contato@jezielmarques7@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="__blank">
  </a>
  
  <a href="https://www.linkedin.com/in/jeziel-marques" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="__blank">
  </a>   
 </div>
  
