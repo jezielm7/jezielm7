@@ -11,7 +11,7 @@ Always looking for improvement and new knowledge to build better solutions throu
 <img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>UI/UX.</b>
 
 <strong>Intend to learn:</strong>  
-<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> <b>RN Animations,</b> 
+<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> <b>RN Animations.</b> 
 
 ### Contatos:
 
