@@ -8,12 +8,10 @@ Always looking for improvement and new knowledge to build better solutions throu
 <strong>Currently learning:</strong> 
 <img style="margin-left: 4px" src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, 
 <img style="margin-left: 4px" src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>, 
-<img style="margin-left: 4px" src="https://i.ibb.co/WF3MG5H/unnamed.png" width="20"/> <b>Redux.</b>
+<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>UI/UX,</b>
 
-<strong>Intend to learn:</strong> 
-<img style="margin-left: 4px" src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL,</b> 
-<img style="margin-left: 4px" src="https://i.ibb.co/nkmmTfG/node-js-logo.png" width="25"/> <b>Node.js,</b> 
-<img style="margin-left: 4px" src="https://i.ibb.co/chN8yVh/jest.png" width="20"/> <b>Jest.</b>
+<strong>Intend to learn:</strong>  
+<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> <b>RN Animations,</b> 
 
 ### Contatos:
 
