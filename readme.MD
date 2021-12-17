@@ -7,7 +7,7 @@ Always looking for improvement and new knowledge to build better solutions throu
 
 <strong>Currently learning:</strong> 
 <img style="margin-left: 4px" src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, 
-<img style="margin-left: 4px" src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>, 
+<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> <b>React Native</b>, 
 <img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>UI/UX,</b>
 
 <strong>Intend to learn:</strong>  
