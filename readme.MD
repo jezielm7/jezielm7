@@ -7,14 +7,15 @@ Always looking for improvement and new knowledge to build better solutions throu
 
 <strong>Main Tools:</strong> 
 <img style="margin-left: 4px" src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, 
-<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> <b>React Native</b>, 
+<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> <b>React Native,</b> 
 <img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>Figma.</b>
 
 <strong>Currently learning:</strong>
 <img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> <b>RN Animations,</b> 
-<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>UI/UX.</b>
+<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>UI/UX,</b>
+<img style="margin-left: 4px" src="https://i.ibb.co/1dsZ6RY/jest.png" width="20"/> <b>Tests.</b>
 
-### Contatos:
+### Contatos: https://i.ibb.co/1dsZ6RY/jest.png
 
 <div>
  <a href="mailto:contato@jezielmarques7@gmail.com">
