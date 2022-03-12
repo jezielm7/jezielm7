@@ -15,7 +15,7 @@ Always looking for improvement and new knowledge to build better solutions throu
 <img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>UI/UX,</b>
 <img style="margin-left: 4px" src="https://i.ibb.co/1dsZ6RY/jest.png" width="20"/> <b>Tests.</b>
 
-### Contatos: https://i.ibb.co/1dsZ6RY/jest.png
+### Contatos:
 
 <div>
  <a href="mailto:contato@jezielmarques7@gmail.com">
