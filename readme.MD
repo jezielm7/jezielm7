@@ -5,13 +5,14 @@ Hi you there 👋🏻
 I'm Jeziel Marques, Mobile Development enthusiast, working over React Native ecosystem. <br/>
 Always looking for improvement and new knowledge to build better solutions through apps...
 
-<strong>Currently learning:</strong> 
+<strong>Main Tools:</strong> 
 <img style="margin-left: 4px" src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, 
 <img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> <b>React Native</b>, 
-<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>UI/UX.</b>
+<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>Figma.</b>
 
-<strong>Intend to learn:</strong>  
+<strong>Currently learning:</strong>
 <img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> <b>RN Animations.</b> 
+<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>UI/UX.</b>
 
 ### Contatos:
 
