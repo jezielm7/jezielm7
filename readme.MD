@@ -2,7 +2,7 @@
 
 Hi you there 👋🏻
 
-I'm Jeziel Marques, Mobile Development enthusiast, working over React Native ecosystem. <br/>
+I'm Jeziel Marques, Mobile Dev and UI Designer enthusiast, working over React Native ecosystem. <br/>
 Always looking for improvement and new knowledge to build better solutions through apps...
 
 <strong>Main Tools:</strong> 
