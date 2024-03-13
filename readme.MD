@@ -11,7 +11,7 @@ Always looking for improvement and new knowledge to build better solutions throu
 <img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>Figma.</b>
 
 <strong>Always learning:</strong> 
-<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>UI/UX Design,</b>
+<img style="margin-left: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>UI/UX Design.</b>
 ### Contatos:
 
 <div>
